@@ -6,4 +6,5 @@ A 16 key ortholinear mechanical macropad
 - 1x 3D printed case
 - 1x Raspberry Pi Pico
 - 16x Cherry MX mechanical switches
+- 16x mechanical switch keycaps
 
