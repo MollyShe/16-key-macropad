@@ -7,4 +7,7 @@ A 16 key ortholinear mechanical macropad
 - 1x Raspberry Pi Pico
 - 16x Cherry MX mechanical switches
 - 16x mechanical switch keycaps
+- 16x SOD 323 diodes
+- 6x 0603 SMD 0.1uF capacitors
+  
 
